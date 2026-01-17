@@ -144,11 +144,11 @@ python src/train.py
 python src/eval.py
 
 ## Libraries Used
--PyTorch
--timm
--NumPy
--scikit-learn
--matplotlib
+- PyTorch
+- timm
+- NumPy
+- scikit-learn
+- matplotlib
 
 ## Acknowledgements
 This project was completed as part of the ML4Sci GSoC 2025 evaluation process for the ML4DQM project.
