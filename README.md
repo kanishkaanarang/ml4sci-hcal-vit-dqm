@@ -1,5 +1,3 @@
-``` <Kanishka Narang> ML4Sci GSoC 2025 Applicant ```
-
 # Vision Transformer for CMS HCAL Run Classification (ML4DQM)
 
 This project implements a Vision Transformer (ViT)–based classifier to
@@ -71,9 +69,9 @@ python src/eval.py
 ```
 
 ## Tools
-> Tools & Libraries
-> PyTorch
-> timm
-> NumPy
-> scikit-learn
-> matplotlib
+- Tools & Libraries
+- PyTorch
+- timm
+- NumPy
+- scikit-learn
+- matplotlib
