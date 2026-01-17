@@ -128,3 +128,28 @@ ml4sci-hcal-vit-dqm/
 ├── roc_curve_vit_hcal.png
 ├── requirements.txt
 └── README.md
+```
+# How to Run: 
+## Create virtual environment
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+
+## Install dependencies
+pip install -r requirements.txt
+
+## Train model
+python src/train.py
+
+## Evaluate model
+python src/eval.py
+
+## Libraries Used
+-PyTorch
+-timm
+-NumPy
+-scikit-learn
+-matplotlib
+
+## Acknowledgements
+This project was completed as part of the ML4Sci GSoC 2025 evaluation process for the ML4DQM project.
+
