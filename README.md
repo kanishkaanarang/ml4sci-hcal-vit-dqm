@@ -74,16 +74,6 @@ Model performance is evaluated using:
 - **ROC Curve**
 - **Area Under the Curve (AUC)**
 
----
-
-## ✅ Results
-
-| Metric | Value |
-|------|------|
-| Accuracy | **1.00** |
-| ROC–AUC | **1.00** |
-
-The model cleanly separates the two runs, indicating strong structural differences in HCAL occupancy patterns.
 
 ---
 
@@ -151,5 +141,5 @@ python src/eval.py
 - matplotlib
 
 ## Acknowledgements
-This project was completed as part of the ML4Sci GSoC 2025 evaluation process for the ML4DQM project.
+This project was completed as part of the ML4Sci GSoC 2026 evaluation process for the ML4DQM project.
 
